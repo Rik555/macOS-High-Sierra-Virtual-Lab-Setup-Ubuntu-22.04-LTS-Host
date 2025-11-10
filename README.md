@@ -1,0 +1,2 @@
+# macOS-High-Sierra-Virtual-Lab-Setup-Ubuntu-22.04-LTS-Host
+This project documents the successful deployment and configuration of a VirtualBox-based lab environment on older macOS hardware (High Sierra). The purpose was to create a secure, isolated sandbox for hands-on practice with Command Line Interface (CLI) tools, network diagnostics, and system log analysis without compromising the host machine.
